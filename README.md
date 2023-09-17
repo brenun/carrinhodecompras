@@ -4,7 +4,7 @@ Projeto com foco em react e API
 
 Este é um projeto de carrinho de compras desenvolvido com React e uma API simples para simular um ambiente de compras online. O objetivo deste projeto é fornecer uma aplicação de exemplo que demonstra a interação entre uma interface de usuário em React e uma API para gerenciar produtos e carrinhos de compras.
 
-![Carrinho de Compras](carrinho-de-compras-screenshot.png)
+![Carrinho de Compras](🛒)
 
 ## Funcionalidades Principais
 
